@@ -5,6 +5,32 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=likeajumprope/OpenNEURO-toolbox)
 
+# Key highlights:
+
+
+1. Seamless Cloud Data Access
+
+- Direct S3 integration with OpenNeuro datasets
+- No need to download entire datasets locally (Matlab.io Datastore)
+- Smart participant-wise data streaming
+
+2. MATLAB Datastore Integration
+
+- Native MATLAB datastore pattern for familiar workflow
+- Automatic file type detection and appropriate readers
+- Memory-efficient processing of large neuroimaging datasets
+
+3. Multi-Modal Support
+
+- Anatomical NIfTI files
+- Functional NIfTI files
+- EEG data (EDF format)
+- DWI data
+- Fieldmaps
+- JSON metadata and TSV files
+
+
+
 
 ##  Usage
 
