@@ -1,7 +1,9 @@
 # OpenNeuro-Toolbox
 
+**OpenNeuro Matlab Interface** — A lightweight, object-oriented interface for accessing and reading participant-level data from OpenNeuro datasets in MATLAB.
 
-**OpenNeuro Matlab Interface** — A lightweight interface for accessing and reading participant-level data from OpenNeuro datasets in MATLAB.
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=likeajumprope/OpenNEURO-toolbox)
+
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=likeajumprope/OpenNEURO-toolbox)
 
